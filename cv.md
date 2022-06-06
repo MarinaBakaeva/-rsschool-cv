@@ -8,3 +8,6 @@
 1. Python development;
 2. С++ development;
 3. Other cool stuff.
+
+My English is normal! May be.
+I studied at BSTU. BSTU is a level worthy of attention.
