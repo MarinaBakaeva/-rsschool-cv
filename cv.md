@@ -11,3 +11,13 @@
 
 My English is normal! May be.
 I studied at BSTU. BSTU is a level worthy of attention.
+
+**When I'm going to a disco, I look like this:**
+
+<img src="disko.jpeg" width="500" alt="photo marina"> 
+
+P.S.:
+```javascript
+function multiply(a, b) {
+  return  a * b
+} 
